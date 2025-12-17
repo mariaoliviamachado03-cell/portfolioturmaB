@@ -1,0 +1,24 @@
+grafico{
+    display:blook;
+    margin-left: auto;
+    margin-right: auto;
+    width:700px;
+    transition: windth;
+}
+.grafico:hover{
+    width: 900px;
+}
+
+.info01 { background-color: rgb(255, 255, 255);
+    margin: 2rem 1rem 0.5rem 21rem;
+    padding: 0.5rem;
+    border-radius: 1rem;
+    box-shadow: 5px 5px 5px  rgb(192, 33, 184);
+}
+
+.info02 { background-color: rgb(255, 255, 255);
+    margin: 2rem 1rem 0.5rem 21rem;
+    padding: 0.5rem;
+    border-radius: 1rem;
+    box-shadow: 5px 5px 5px  rgb(192, 33, 184);
+}
