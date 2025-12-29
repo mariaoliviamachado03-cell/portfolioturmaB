@@ -94,15 +94,7 @@ header{
     min-height: 50px;
    transition: all 0.3s ease;
 }
-.info02 summary::-webkit-details-marker {
-    display: none;
-}
-.info02 p {
-    margin-top: 1rem;
-    line-height: 1.5; 
-    word-wrap: break-word; 
-    color: #333;
-}
+
 .info02[open] {
     height: auto;
 }
@@ -195,6 +187,7 @@ footer {
     font-size: 1.3rem;
 
   }
+
 
 
 
