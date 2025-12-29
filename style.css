@@ -93,8 +93,6 @@ header{
     width: 300px;
     height: 200px;
     min-height: 50px;
-    word-wrap: break-word; 
-    overflow: hidden;
 }
 .info02 p {
     margin-top: 10px;
@@ -187,4 +185,5 @@ footer {
     font-size: 1.3rem;
 
   }
+
 
