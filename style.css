@@ -91,7 +91,7 @@ header{
     border-radius: 1rem 0;
     box-shadow: 5px 5px 5px  rgb(192, 33, 184);
     width: 300px;
-    min-height: 50px;
+min-height: 200px;
    transition: all 0.3s ease;
 }
 
@@ -187,6 +187,7 @@ footer {
     font-size: 1.3rem;
 
   }
+
 
 
 
